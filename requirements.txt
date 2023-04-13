@@ -1,1 +1,8 @@
+certifi==2022.12.7
+chardet==3.0.4
+cloudscraper==1.2.69
+idna==2.7
+pyparsing==3.0.9
 requests==2.20.0
+requests-toolbelt==0.10.1
+urllib3==1.24.3
